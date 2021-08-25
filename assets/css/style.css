@@ -138,4 +138,14 @@ section {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
+    margin: 0 auto;
+}
+
+.steps {
+    text-align: center;
+    background: #fce138
+}
+
+.steps h2 {
+    border-color: #39a6b2;
 }
